@@ -36,3 +36,8 @@ I believe that everyone has the right to access their game save data on the game
 - [XboxAuthNet](https://github.com/AlphaBs/XboxAuthNet)
 - [Prism Launcher for OAuth](https://prismlauncher.org/)
 - [Original xbcsmgr](https://github.com/billynothingelse/xbcsmgr)
+
+## See also
+
+- [MS GDK Cloud Storage]https://learn.microsoft.com/de-de/gaming/gdk/docs/services/storage/live-cloud-storage-nav
+- [xgamesaveutil.exe]https://learn.microsoft.com/en-us/gaming/gdk/docs/tools/tools-pc/commandlinetools/gr-xgamesaveutil?view=gdk-2604
