@@ -39,5 +39,6 @@ I believe that everyone has the right to access their game save data on the game
 
 ## See also
 
-- [MS GDK Cloud Storage]https://learn.microsoft.com/de-de/gaming/gdk/docs/services/storage/live-cloud-storage-nav
+- [MS GDK - Cloud Storage]https://learn.microsoft.com/de-de/gaming/gdk/docs/services/storage/live-cloud-storage-nav
+- [MS GDK - Downloading a blob from Title Storage]https://learn.microsoft.com/de-de/gaming/gdk/docs/services/storage/title-storage/how-to/live-downloading-title-storage-blob?view=gdk-2604
 - [xgamesaveutil.exe]https://learn.microsoft.com/en-us/gaming/gdk/docs/tools/tools-pc/commandlinetools/gr-xgamesaveutil?view=gdk-2604
